@@ -1,4 +1,4 @@
-# Interactive-Visualization-with-R
+# Interactive Visualization with R
 
 ukb dataset is the example dataset.
 
